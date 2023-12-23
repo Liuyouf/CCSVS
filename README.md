@@ -1,7 +1,7 @@
 # Paper: Convex-Concave Tensor Robust Principal Component Analysis (IJCV Paper)
 # Code Format: MATLAB
 
-[Example: Denosing for a single image]
+[Example: Denoising for a single image]
 
 run the file demo_ccsvs_image.m and see the results immediately.
 
